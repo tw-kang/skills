@@ -81,7 +81,6 @@ Always prefer `xkill` over raw `kill -9` or `pkill`.
 | `test_exec_sql <dbname> <sql> <expected>` | Execute and assert result |
 | `test_exec_command <cmd> <expected>` | Execute command and assert output |
 
-
 ## Utility
 
 | Function | Purpose |
